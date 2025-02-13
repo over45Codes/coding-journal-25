@@ -13,17 +13,18 @@
 1. Create a new README.md log for session note taking. 
 2. Update coding journal coding-journal-25 README.md log 
 3. Continue to create new Anki Notes per topic learned
-4. Continue Class #1 The Complete 2023 Web Development Bootcamp: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
-5. Started SQL Course on TripleTen - SQL 101: Like You’ve Never Seen It Before 20 hrs  
-6. Post on X for the next 100 days! 
+4. Continue to add good coding-learning-notes 
+5. Continue Class #1 The Complete 2023 Web Development Bootcamp: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+6. Started SQL Course on TripleTen - SQL 101: Like You’ve Never Seen It Before 20 hrs  
+7. Post on X for the next 100 days! 
 
 
 Today's Progress:
 
 - Checked my Daily Coding Study Planner Reminders
 - 1 hr of coding: Class #1 CSS Course From The Complete 2023 Web Development Bootcamp online
-- Updated my CSS README.md log README.md log
-- Section 8: Advance CSS - Lessons #48 - #53
+- Updated README.md logs
+- Section 9: Advance CSS - Lessons #54 - #59
 - SQL 101: Like You’ve Never Seen It Before 
     - Chapter 1/9 - Introduction to Databases
 - Posted on X #100DaysofCode! ... Keep going! To keep me accountable. 
@@ -37,9 +38,10 @@ Today's Progress:
 Study Schedule Up next:
 
 1. Class #1 The Complete 2023 Web Development Bootcamp online:
-
 - Section 9: Advance CSS - Lessons #54 - #59
-- W3 Schools: CSS Quiz - Result: 22 of 25 88% - Time Spent on quiz 6:36  
+
+Other Projects:
+- Creating a new TikTok or Podcast channel 🤨?
 
 
 
