@@ -16,7 +16,7 @@
 4. Continue to add good coding-learning-notes 
 5. Continue Class #1 The Complete 2023 Web Development Bootcamp: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 6. Started SQL Course on TripleTen - SQL 101: Like You’ve Never Seen It Before 20 hrs  
-7. Post on X for the next 100 days! 
+
 
 
 Today's Progress:
@@ -27,7 +27,7 @@ Today's Progress:
 - Section 9: Advance CSS - Lessons #54 - #59
 - SQL 101: Like You’ve Never Seen It Before 
     - Chapter 1/9 - Introduction to Databases
-- Posted on X #100DaysofCode! ... Keep going! To keep me accountable. 
+ 
 
 ## Thoughts:
 
@@ -42,6 +42,7 @@ Study Schedule Up next:
 
 Other Projects:
 - Creating a new TikTok or Podcast channel 🤨?
+- Create a TikTok channel to upload my tech journey 
 
 
 
