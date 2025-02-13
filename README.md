@@ -1,5 +1,5 @@
 # coding-journal-25
-New Year, New self-taught coding journal! 2025
+2025 Self-Taught Coding Journal: New Year, New Goals!
 -  Coding, It's a place where creativity meets logic, and every line of code is a brushstroke on the canvas of the digital realm... | Sharing my self-taught coding journey in my late 40s as I transition into tech from Baja California, Mexico! 🚀✨ Embracing the winding path of growth! 🌱 🇲🇽 Let's Go!
 
 ### Day 1: Wed, February 12, 2025
