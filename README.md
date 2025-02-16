@@ -108,3 +108,58 @@ Other Projects:
 📖 Read More:
 Posting on X ([@over45Codes](https://x.com/over45Codes))
 For a deeper dive into my coding journey, check out my articles on Hashnode:([@https://hashnode.com/@over45Codes])
+
+-------------------------------------------------------
+# coding-journal-25
+
+### Day 3: Saturday, February 15, 2025
+
+#100DaysOfCode
+
+##### (🌱 Growth is a Winding Path, not a Straight Line)
+
+**Today's Project(s) Goals**:
+
+1. Create a new README.md log for session note taking. 
+2. Update coding journal coding-journal-25 README.md log 
+3. Continue to create new Anki Notes per topic learned
+4. Continue to add good coding-learning-notes 
+5. Continue Class #1 The Complete 2023 Web Development Bootcamp: Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
+6. Started SQL Course on TripleTen - SQL 101: Like You’ve Never Seen It Before 20 hrs  
+
+
+
+Today's Progress:
+
+- Checked my Daily Coding Study Planner Reminders
+- 1 hr of coding: Class #1 CSS Course From The Complete 2023 Web Development Bootcamp online
+- Updated README.md logs
+- - Section 10: Advance CSS - GRID Lessons #60 - 63
+- SQL 101: Like You’ve Never Seen It Before  - on hold 
+    - Chapter 1/9 - Introduction to Databases
+ 
+
+## Thoughts:
+
+> “There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises at every attempt to intimidate me.” ― Jane Austen, Pride and Prejudice
+
+> Always remember: “Code every day”, “Simplicity is the soul of efficiency.” – Austin Freeman
+
+Study Schedule Up next:
+
+1. Class #1 The Complete 2023 Web Development Bootcamp online:
+- Section 10: Advance CSS - GRID Lessons #60 - 63
+
+Other Projects:
+- Creating a new TikTok or Podcast channel 🤨?
+- Create a TikTok channel to upload my tech journey 
+
+
+
+## Author
+
+-  Grace (over45Codes)  - Full Stack Developer 🇲🇽 💜  - [Linkedin](https://www.linkedin.com/in/castanedagrace/)
+- Sharing my self-taught coding journey in my late 40s. | Starting over in Mexico 🇲🇽✨ #CodingInMy40s #TechTransition 🚀
+📖 Read More:
+Posting on X ([@over45Codes](https://x.com/over45Codes))
+For a deeper dive into my coding journey, check out my articles on Hashnode:([@https://hashnode.com/@over45Codes])
